@@ -1,0 +1,12 @@
+import:
+  - /home/deusbog/Загрузки/alacritty-master/dracula.yml
+font:
+  normal:
+    family: "MesloLGS NF"
+
+
+shell:
+ program: /usr/bin/zsh
+ args:
+ - --login
+

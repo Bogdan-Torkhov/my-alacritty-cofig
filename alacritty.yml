@@ -9,4 +9,3 @@ shell:
  program: /usr/bin/zsh
  args:
  - --login
-

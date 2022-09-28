@@ -2,8 +2,14 @@ import:
   - /home/deusbog/Загрузки/alacritty-master/dracula.yml
 font:
   normal:
-    family: "MesloLGS NF"
+    family: FiraCode Nerd Font
+    style: Regular
 shell:
  program: /usr/bin/zsh
  args:
    - --login
+key_bindings:
+  - { key: Space, mods: Shift, chars: "\x1b[32;2u" }
+window:
+  opacity: 0.90
+  decoration: 'full'

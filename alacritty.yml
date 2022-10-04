@@ -2,7 +2,7 @@ import:
   - /home/deusbog/Загрузки/alacritty-master/dracula.yml
 font:
   normal:
-    family: FiraCode Nerd Font
+    family: MesloLGS NF
     style: Regular
 shell:
  program: /usr/bin/zsh

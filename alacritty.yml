@@ -1,11 +1,11 @@
 import:
-  - /home/deusbog/Загрузки/alacritty-master/dracula.yml
+  - /home/deusbog/Downloads/alacritty-master/dracula.yml
 font:
   normal:
     family: MesloLGS NF
     style: Regular
 shell:
- program: /usr/bin/bash
+ program: /usr/bin/zsh
  args:
    - --login
 key_bindings:
